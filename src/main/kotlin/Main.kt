@@ -1,8 +1,15 @@
 fun main() {
-    solveProblem(1152)
+    solveProblem(0)
 }
 
 fun solveProblem(number: Int) {
+    // Temp 풀이 실행
+    if (number == 0) {
+        solution()
+        return
+    }
+
+    // 오답 노트 실행
     val methodName = "solution" // 모든 문제의 해결 함수 이름을 'solution'으로 가정
     try {
         // 문제 번호에 따라 코틀린 파일 클래스 이름을 동적으로 생성
