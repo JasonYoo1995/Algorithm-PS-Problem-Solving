@@ -42,12 +42,10 @@ Thumbs.db
 .vscode/
 .history/
 node_modules/
-.gradle/
 target/
 bin/
 gen/
 generated/
-releases/
 releases/
 lib/
 /.idea/
