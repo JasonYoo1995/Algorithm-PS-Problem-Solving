@@ -1,0 +1,55 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+out/
+.idea_modules/
+*.ipr
+
+### Gradle ###
+.gradle/
+build/
+
+### Kotlin ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Logs ###
+logs/
+*.log
+*.tlog
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Kotlin specific ###
+**/target/
+**/.settings/
+**/.project
+**/.classpath
+
+### General ###
+*.swp
+*~
+.project
+.classpath
+.c9/
+
+### Specific files ###
+.vscode/
+.history/
+node_modules/
+.gradle/
+target/
+bin/
+gen/
+generated/
+releases/
+releases/
+lib/
+/.idea/
+/*.iml
+/target
