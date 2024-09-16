@@ -1,5 +1,7 @@
 package BJ
 
+// https://www.acmicpc.net/problem/1152
+
 fun solution() {
     val ans = readln()
         .trim() // 좌우 공백 제거
