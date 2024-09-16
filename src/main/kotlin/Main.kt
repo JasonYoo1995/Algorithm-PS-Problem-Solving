@@ -1,14 +1,8 @@
 fun main() {
-    solveProblem(0)
+    solveProblem(1152)
 }
 
 fun solveProblem(number: Int) {
-    // Temp 풀이 실행
-    if (number == 0) {
-        solution()
-        return
-    }
-
     // 오답 노트 실행
     val methodName = "solution" // 모든 문제의 해결 함수 이름을 'solution'으로 가정
     try {
