@@ -1,3 +1,7 @@
+package BJ
+
+// https://www.acmicpc.net/problem/30802
+
 fun main() {
     val n = readln().toInt()
     val registeredCounts = readln().split(" ").map { it.toInt() }
